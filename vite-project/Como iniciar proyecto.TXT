@@ -1,0 +1,3 @@
+A la hora de crear el proyecto primero hay que iniciar node en la raiz del proyecto para que se descarguen las dependecias necesarias y basicas de vite con: npm i
+Luego dirigirse con la terminal a la carpeta de "Servidor" y en ella primero hacer: npm i, para que se descarguen las dependecias que usa el server y luego 
+Escribir el siguiente comando: node server, si todo sale bien deberia de mostrar un mensaje por consola junto con la url del servidor
